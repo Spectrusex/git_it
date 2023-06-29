@@ -1,0 +1,6 @@
+git init
+git add
+git commit -m ""//with message
+git status
+git log//show commit log
+git checkout id //take head to give id
