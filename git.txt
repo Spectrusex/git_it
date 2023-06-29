@@ -4,3 +4,5 @@ git commit -m ""//with message
 git status
 git log//show commit log
 git checkout id //take head to give id
+git branch //shows branches
+git checkout -b branchname //used to make new branch
