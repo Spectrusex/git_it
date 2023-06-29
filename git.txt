@@ -1,8 +1,11 @@
 git init
 git add
 git commit -m ""//with message
+git commit //:q for exit :wq for save and exit
 git status
 git log//show commit log
 git checkout id //take head to give id
 git branch //shows branches
-git checkout -b branchname //used to make new branch
+git checkout -b branchname //used to make new branches
+git checkout branchname //to switch branches
+git merge branchname //to merge to master or parent
