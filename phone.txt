@@ -2,4 +2,4 @@ phone
 
 
 touch screen
-cover-gorilla
+screen-gorilla
