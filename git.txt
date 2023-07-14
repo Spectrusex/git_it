@@ -10,4 +10,4 @@ git checkout -b branchname //used to make new branches
 git checkout branchname //to switch branches
 git merge branchname //to merge to master or parent
 git branch -d branchname //to delete branch
-git push origin bramch_name
+git push origin branch_name
