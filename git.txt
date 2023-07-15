@@ -11,3 +11,4 @@ git checkout branchname //to switch branches
 git merge branchname //to merge to master or parent
 git branch -d branchname //to delete branch
 git push origin branch_name
+rm -rf path //remove recursively 
